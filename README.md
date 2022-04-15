@@ -1,4 +1,4 @@
-# Tweet-Image-Extract
+# ExtractTwitterImages
 ## 1. Obtaining data
 This repo includes two ways to obtain images from Twitter:
 ### 1.1 Using snscrape Python library
